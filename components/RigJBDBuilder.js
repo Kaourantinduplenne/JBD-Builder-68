@@ -7,7 +7,7 @@ import React, { useState, useRef } from 'react';
 import { Rnd } from 'react-rnd';
 
 const COLORS = ['#FF5733', '#33FF57', '#3357FF', '#FF33A1', '#A133FF', '#33FFF5', '#FFD433'];
-const RIG_OPTIONS = ['DAT', 'DGD', 'DPN', 'DPS', 'DPT', 'DTH', 'DTN', 'DVS'];
+const RIG_OPTIONS = ['DAT', 'DCQ', 'DGD', 'DPN', 'DPS', 'DPT', 'DTH', 'DTN', 'DVS'];
 
 export default function RigJBDBuilder() {
   const diagramRef = useRef(null);
@@ -28,8 +28,9 @@ export default function RigJBDBuilder() {
 
   const diagramOptions = {
     DAT: ["Pipe Deck", "Rig Floor", "Riser Deck", "Helideck Deck"],
+    DCQ: ["Pipe Deck", "Rig Floor", "Riser Deck", "Helideck Deck"],
     DGD: ["Pipe Deck", "Rig Floor", "Riser Deck", "Helideck Deck"],
-    DPN: ["Pipe Deck", "Rig Floor", "Riser Deck", "Helideck Deck"],
+    DPN: ["Aft Deck", "Bow Deck","Engine Room Center", "Engine Room Port", "Engine Room Starboard", "FRC", "Helideck Deck", "Moonpool", "Mudpump Room", "Pipe Deck", "Rig Floor", "Riser Deck", "Riser Well Test", "ROV", "Sack Store", "Shale Shaker"],
     DPS: ["Pipe Deck", "Rig Floor", "Riser Deck", "Helideck Deck"],
     DPT: ["Pipe Deck", "Rig Floor", "Riser Deck", "Helideck Deck"],
     DTH: ["Pipe Deck", "Rig Floor", "Riser Deck", "Helideck Deck"],
