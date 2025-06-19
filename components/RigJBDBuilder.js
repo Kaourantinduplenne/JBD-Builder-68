@@ -31,9 +31,9 @@ export default function RigJBDBuilder() {
     DCQ: ["Pipe Deck", "Rig Floor", "Riser Deck", "Helideck Deck"],
     DGD: ["Pipe Deck", "Rig Floor", "Riser Deck", "Helideck Deck"],
     DPN: ["Aft Deck", "Bow Deck","Engine Room Center", "Engine Room Port", "Engine Room Starboard", "FRC", "Helideck Deck", "Moonpool", "Mudpump Room", "Pipe Deck", "Rig Floor", "Riser Deck", "Riser Well Test", "ROV", "Sack Store", "Shale Shaker"],
-    DPS: ["Pipe Deck", "Rig Floor", "Riser Deck", "Helideck Deck"],
-    DPT: ["Pipe Deck", "Rig Floor", "Riser Deck", "Helideck Deck"],
-    DTH: ["Pipe Deck", "Rig Floor", "Riser Deck", "Helideck Deck"],
+    DPS: ["Aft Deck", "Bow Deck","Engine Room Center", "Engine Room Port", "Engine Room Starboard", "FRC", "Helideck Deck", "Moonpool", "Mudpump Room", "Pipe Deck", "Rig Floor", "Riser Deck", "Riser Well Test", "ROV", "Sack Store", "Shale Shaker"],
+    DPT: ["Aft Deck", "Bow Deck","Engine Room Center", "Engine Room Port", "Engine Room Starboard", "FRC", "Helideck Deck", "Moonpool", "Mudpump Room", "Pipe Deck", "Rig Floor", "Riser Deck", "Riser Well Test", "ROV", "Sack Store", "Shale Shaker"],
+    DTH: ["Aft Deck", "Bow Deck","Engine Room Center", "Engine Room Port", "Engine Room Starboard", "FRC", "Helideck Deck", "Moonpool", "Mudpump Room", "Pipe Deck", "Rig Floor", "Riser Deck", "Riser Well Test", "ROV", "Sack Store", "Shale Shaker"],
     DTN: ["Pipe Deck", "Rig Floor", "Riser Deck", "Helideck Deck"],
     DVS: ["Pipe Deck", "Rig Floor", "Riser Deck", "Helideck Deck"]
   };
