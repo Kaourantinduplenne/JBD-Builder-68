@@ -30,7 +30,7 @@ export default function RigJBDBuilder() {
     DAT: ["Pipe Deck", "Rig Floor", "Riser Deck", "Helideck Deck"],
     DCQ: ["Pipe Deck", "Rig Floor", "Riser Deck", "Helideck Deck"],
     DGD: ["Pipe Deck", "Rig Floor", "Riser Deck", "Helideck Deck"],
-    DPN: ["Aft Deck", "Bow Deck","Engine Room Center", "Engine Room Port", "Engine Room Starboard", "FRC", "Helideck Deck", "Moonpool", "Mudpump Room", "Pipe Deck", "Rig Floor", "Riser Deck", "Riser Well Test", "ROV", "Sack Store", "Shale Shaker"],
+    DPN: ["Aft Deck", "Bow Deck", "Drawworks Deck", "Engine Room Center", "Engine Room Port", "Engine Room Starboard", "FRC", "Helideck Deck", "Moonpool", "Mudpump Room", "Pipe Deck", "Rig Floor", "Riser Deck", "Riser Well Test", "ROV", "Sack Store", "Shale Shaker"],
     DPS: ["Aft Deck", "Bow Deck","Engine Room Center", "Engine Room Port", "Engine Room Starboard", "FRC", "Helideck Deck", "Moonpool", "Mudpump Room", "Pipe Deck", "Rig Floor", "Riser Deck", "Riser Well Test", "ROV", "Sack Store", "Shale Shaker"],
     DPT: ["Aft Deck", "Bow Deck","Engine Room Center", "Engine Room Port", "Engine Room Starboard", "FRC", "Helideck Deck", "Moonpool", "Mudpump Room", "Pipe Deck", "Rig Floor", "Riser Deck", "Riser Well Test", "ROV", "Sack Store", "Shale Shaker"],
     DTH: ["Aft Deck", "Bow Deck","Engine Room Center", "Engine Room Port", "Engine Room Starboard", "FRC", "Helideck Deck", "Moonpool", "Mudpump Room", "Pipe Deck", "Rig Floor", "Riser Deck", "Riser Well Test", "ROV", "Sack Store", "Shale Shaker"],
