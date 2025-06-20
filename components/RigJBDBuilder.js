@@ -34,7 +34,7 @@ export default function RigJBDBuilder() {
     DPS: ["Aft Deck", "Bow Deck","Engine Room Center", "Engine Room Port", "Engine Room Starboard", "FRC", "Helideck Deck", "Moonpool", "Mudpump Room", "Pipe Deck", "Rig Floor", "Riser Deck", "Riser Well Test", "ROV", "Sack Store", "Shale Shaker"],
     DPT: ["Aft Deck", "Bow Deck","Engine Room Center", "Engine Room Port", "Engine Room Starboard", "FRC", "Helideck Deck", "Moonpool", "Mudpump Room", "Pipe Deck", "Rig Floor", "Riser Deck", "Riser Well Test", "ROV", "Sack Store", "Shale Shaker"],
     DTH: ["Aft Deck", "Bow Deck","Engine Room Center", "Engine Room Port", "Engine Room Starboard", "FRC", "Helideck Deck", "Moonpool", "Mudpump Room", "Pipe Deck", "Rig Floor", "Riser Deck", "Riser Well Test", "ROV", "Sack Store", "Shale Shaker"],
-    DTN: ["Pipe Deck", "Rig Floor", "Riser Deck", "Helideck Deck"],
+    DTN: ["Pipe Deck", "Rig Floor", "Riser Deck", "Riser Deck Starboard", "Helideck Deck"],
     DVS: ["Pipe Deck", "Rig Floor", "Riser Deck", "Helideck Deck"]
   };
 
